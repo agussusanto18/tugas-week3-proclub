@@ -1,0 +1,1 @@
+print("Ini tugas week 1")
