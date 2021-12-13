@@ -1,0 +1,1 @@
+print("Tugas week 2")
